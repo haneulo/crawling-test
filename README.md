@@ -1,5 +1,5 @@
 # Python_Crawling
-👉python으로 웹 크롤링 하기 study입니다.
+👉python으로 웹 크롤링(기초) study입니다.
 
 ## 목록
 1. 필요한 라이브러리 설치 (install_library.ipynb)
